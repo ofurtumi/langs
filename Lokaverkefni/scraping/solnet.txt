@@ -3230,9 +3230,7 @@ Svo tókumst við í hendur hljótt
 og hægt við sögðum, góða nótt.
 En síðan æ í muna mér
 þín minning fögur er.
-
-            
-
+---
 Með vindinum þjóta skúraský
 
 Með vindinum þjóta skúraský,
@@ -6491,7 +6489,6 @@ og kannski gæti ég fáein nöfn
 látið þig fá ef langar þig
 og laglega biður mig
 
-                               
 Og þaðan fór ég til Þýskalands
 og þar lenti ég í meyjafans.
 Því allar vildu þær eignast mann
@@ -7286,9 +7283,7 @@ Vertu nú yfir og allt um kring
 með eilífri blessun þinni.
 sitji Guðs englar saman í hring
 sænginni yfir minni.
-
-            
-
+---
 Lítill fugl
 
 Lítill fugl á laufgum teigi
@@ -7825,9 +7820,7 @@ Sú ein er bæn í brjósti mér,
 ég betur kunni þjóna þér,
 því veit mér feta veginn þinn,
 að verðir þú æ Drottinn minn.
-
-                    
-
+---
 Drottinn minn
 
 Þegar lít ég laufgan skóg,
@@ -7854,9 +7847,7 @@ Sumar, vetur, vor og haust
 vakir Drottinn, endalaust.
 Ef þú réttir honum hönd
 hratt þig ber að gæfuströnd.
-
-
- 
+---
 Trú von og kærleikur
 
 Trúin gefur traust og hald,
@@ -9021,7 +9012,7 @@ gleymnir á meyjanna nöfn vorum við
 hlátur og grátur í huganum bergmálar enn.
 ---
 Kveðjustund
-  
+
 Ó, vertu sæll ég kveð þig kæri vinur
 klökk af þrá ég bið þig gleymdu mér.
 Vertu sæll við sjáumst aldrei aldrei á ný
@@ -9600,7 +9591,7 @@ yndi, heim þá skundum,
 seint um sólarlag.
 ---
 Suður um höfin
- 
+
 Suður um höfin að sólgylltri strönd
 sigli ég fleyi mínu til að kanna ókunn lönd.
 En meðan ég lifi, ei bresta þau bönd,
@@ -11956,9 +11947,7 @@ Fæturnir þúsund þurfa’ að trimma,
 þjálfa stöðugt ennþá meir,
 finnst þó mjög erfitt að fóta sig í leir
 enda fætur hennar ekki bara tveir.
-                             
-
-
+---
 Þýtur í laufi
 
 Þýtur í laufi, bálið brennur.
@@ -13262,9 +13251,7 @@ og að skyndikonur og brennivín
 með stundargaman og dufl og dans
 mundu draga mig beint til andskotans.
 Hún söng dirrindí,....
-                         
-
-
+---
 Vorið er komið
 
 Vorið er komið og grundirnar gróa,
@@ -13731,7 +13718,7 @@ brjótandi niður hans sálu og kropp,
 það er vafstur og amstur
 og eilíft ráp um stræti og torg,
 aldrei þar verður á jaginu stopp.
-      
+
 Betra er á fjöllum, konum og körlum
 koma þau öllum að nýju í lag.
 Vistin á öræfum eykur fjör og styrkir þrótt,
@@ -18487,7 +18474,7 @@ og skola Gölla upp til næsta lands
 úr heilli því að ég mun sakna hans.
 ---
 Gömlu dagana gefðu mér
-                      
+
 Gömlu dagana gefðu mér,
 þá gat ég verið einn með þér,
 nú tæknin geggjuð orðin er

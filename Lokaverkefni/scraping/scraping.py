@@ -13,7 +13,7 @@ def simple_cleaner (sent):
     return sent
 
 def snerpa():
-    with open ('./scraping/snerpa_links.json') as f:
+    with open ('./snerpa_links.json') as f:
         snerpa_links = json.load(f)
 
     page_data = {}
@@ -25,6 +25,7 @@ def snerpa():
         soup = BeautifulSoup(html_data, 'html.parser')
 
         all_text = soup.find('article')
+        if all_text == None: return
         author = all_text.find('em')
         if author != None:
             author.extract()
@@ -63,7 +64,7 @@ def heimsnet():
     
     return page_data
 
-import json
+
 page_data = {**heimsnet(), **snerpa()}
 with open('./scraped_data.json', 'w', encoding="utf-8") as f:
     json.dump(page_data, f, ensure_ascii=False, indent=2)
