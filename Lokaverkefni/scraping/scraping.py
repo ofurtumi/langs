@@ -64,7 +64,12 @@ def heimsnet():
     
     return page_data
 
+# þessi aðferð gerir ráð fyrir því að gp.json sé til, hún er útbúinn með hinum ýmsu aðferðum í gp.
+def guitar_party():
+    with open('./gp.json') as f:
+        gp_data = json.load(f)
+    return gp_data
 
-page_data = {**heimsnet(), **snerpa()}
+page_data = {**heimsnet(), **snerpa(), **guitar_party()}
 with open('./scraped_data.json', 'w', encoding="utf-8") as f:
     json.dump(page_data, f, ensure_ascii=False, indent=2)
